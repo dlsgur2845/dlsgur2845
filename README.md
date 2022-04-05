@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white" height="27">
 </div>
 
@@ -31,6 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white" height="27">
 </div>
 
 ### Environment
