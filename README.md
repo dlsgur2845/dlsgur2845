@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <div>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white" height="27">
 </div>
 
 ### Collaboration tool
