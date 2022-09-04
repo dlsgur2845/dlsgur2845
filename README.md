@@ -48,4 +48,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/Microsoft Teams-6264A7.svg?&style=flat-square&logo=Microsoft Teams&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/Mattermost-0058CC.svg?&style=flat-square&logo=Mattermost&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Confluence-0058CC.svg?&style=flat-square&logo=Confluence&logoColor=white" height="27">
 </div>
